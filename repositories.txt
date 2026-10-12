@@ -1,0 +1,3 @@
+char-nine: https://github.com/ramman48/bbee-redux-public/tree/main/char-nine
+char-ruby: https://github.com/ramman48/bbee-redux-public/tree/main/char-ruby
+dr-party: https://github.com/ramman48/bbee-redux-public/tree/main/dr-party
